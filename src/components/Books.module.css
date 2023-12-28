@@ -1,0 +1,23 @@
+.main__content{
+    display: flex;
+}
+.content__book_list,
+.content__book__favorite{
+    display: flex;    
+    align-items: center;
+    flex-direction: column;
+    flex: 2.6 1 0;
+}
+.content__book__favorite{
+    flex: 1 1 0;
+    height: fit-content;
+    background-color: #6552f4;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-left: 1rem;
+}
+.favorite__title{
+    align-self: flex-start;
+    color: #fff;
+    margin-bottom: 1rem;
+}

@@ -1,0 +1,19 @@
+.side__card{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: #7c6ee9;
+    border-radius: .5rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+.side__card:last-child{
+    margin: 0;
+}
+.side__card__image{
+    width: 25%;
+}
+.side__card__title{
+    color: #fff;
+}

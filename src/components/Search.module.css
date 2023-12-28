@@ -1,0 +1,23 @@
+.search__box{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin: 3rem 0;
+}
+.search__input{
+    width: 15rem;
+    height: 2rem;
+    border: none;
+    border-radius: .5rem;
+    outline: none;
+    padding: .5rem;
+}
+.search__button{
+    width: 2rem;
+    height: 2rem;
+    margin-left: .5rem;
+    background-color: #6552f4;
+    border-radius: .5rem;
+    border: none;
+    cursor: pointer;
+}

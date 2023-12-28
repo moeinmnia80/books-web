@@ -1,0 +1,31 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 1rem;
+    padding: 1rem;
+}
+/* .header__title{
+
+}
+.header__text{
+
+} */
+.header__link{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 500;
+    color: #0c356a;
+
+}
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 2rem;
+}
