@@ -3,7 +3,7 @@ function Layout({children}) {
   return (
     <>
         <header className={style.header}>
-            <h1 className={style.header__title}>BotoStart</h1>
+            <h1 className={style.header__title}>Monet</h1>
             <p className={style.header__text}><a className={style.header__link} href="https:?//botostart.ir">Botostart</a> | React.js Full Course</p>
         </header>
         {children}
