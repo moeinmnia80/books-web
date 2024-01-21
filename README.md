@@ -6,7 +6,7 @@ Hello guys, wellcome to my github page
 
 - https://monet-books-web.netlify.app/
 
-created ❤️ by SBG
+created with ❤️ by SBG
 
 -----------------------------------
 
